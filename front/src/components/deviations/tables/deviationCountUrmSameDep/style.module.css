@@ -1,0 +1,23 @@
+.header{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.countInput{
+    margin-top: 10px;
+}
+.header span{
+    margin-right: 30px;
+}
+.tableWindow{
+    max-height: 550px;
+    overflow-y: auto;
+    margin-top: 10px;
+}
+.pagination{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.deviationSearch{
+    margin-left: 10px;
+}

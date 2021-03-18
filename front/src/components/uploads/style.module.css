@@ -1,0 +1,36 @@
+.typeMiddle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tbSelect{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.typeHeader{
+    color: green;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+
+.typeButtons{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.formHeader{
+    color: red;
+    margin-top: 10px; 
+}
+
+.formWrapper{
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+
+.fileDown{
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.name{
+    color: black;
+}

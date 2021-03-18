@@ -1,0 +1,19 @@
+.unitList ul li{
+    border-bottom: 1px dashed black;
+    border-left: 1px dashed black;
+    margin: 2px;
+    list-style-type: none;
+    font-size: 0.8em;
+    
+}
+.chart{
+    color: white;
+}
+.unitList ul{
+    margin-left: 10px;
+    padding: 0;
+    margin-top: 2px;
+}
+.liPart {
+    margin-left: 5px;
+}

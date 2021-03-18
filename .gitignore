@@ -1,0 +1,10 @@
+back/node_modules/*
+front/node_modules/*
+
+.idea
+package-lock.json
+node_modules
+
+back/uploads/*
+front/.eslintcache
+front/build
